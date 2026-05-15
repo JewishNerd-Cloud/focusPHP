@@ -1,7 +1,6 @@
-/**
- * API Estatísticas — Integração com backend (usando dados de Missões/Tasks)
- * Fornece funções para comunicar com api_estatisticas.php
- */
+/*
+  API Estatísticas — Integração com backend
+*/
 
 const StatsAPI = (() => {
   const BASE_URL = 'php/api_estatisticas.php';
